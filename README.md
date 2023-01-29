@@ -1,2 +1,2 @@
 # CadastroEmail
-CriacaoEmailOutlook
+CriacaoEmailOutlook, Selenium WebDriver Java
